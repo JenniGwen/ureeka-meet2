@@ -1,0 +1,3 @@
+commit -> save perubahan
+push -> upload perubahan
+pull -> download perubahan
